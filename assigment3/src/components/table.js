@@ -1,3 +1,5 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import Table from "react-bootstrap/Table";
 import Profile from "./profile";
 import { useState } from "react";
 export default function TableCreate(props) {
